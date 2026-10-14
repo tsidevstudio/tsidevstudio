@@ -23,16 +23,19 @@ Key features:
 - Private PDF viewer
 - Clean Share with metadata removal and blur tools
 
-Website: https://tsidevstudio.com/xsilent?lang=en
+Website: https://tsidevstudio.com/apps/xsilent
+
+Repository: https://github.com/tsidevstudio/xsilent
 
 Google Play: https://play.google.com/store/apps/details?id=com.xsilent.app
 
-Security & Help: https://tsidevstudio.com/apps/xsilent/security-help?lang=en
+Security & Help: https://tsidevstudio.com/apps/xsilent/security-help
+
+Press & Reviewer Kit: https://tsidevstudio.com/press/xsilent
 
 ## Other Android apps
 
 TSI Dev Studio also develops:
-
 - Nullun — Status Bar Studio
 - Seabil — Subscription Tracker
 - HEZX — Price-per-Use Tracker
