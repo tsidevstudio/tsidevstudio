@@ -8,7 +8,7 @@ I create Android applications designed around simple ownership, fewer unnecessar
 
 ### Xsilent — Private Photo & File Vault
 
-Xsilent is an Android privacy vault for photos, videos and PDFs.
+Xsilent is a privacy-focused Android vault for photos, videos and PDFs.
 
 Key features:
 
@@ -22,6 +22,9 @@ Key features:
 - Encrypted Trash
 - Private PDF viewer
 - Clean Share with metadata removal and blur tools
+- Screenshot and screen-recording protection
+- Quick Lock
+- Local-first design
 
 Website: https://tsidevstudio.com/apps/xsilent
 
@@ -33,15 +36,49 @@ Security & Help: https://tsidevstudio.com/apps/xsilent/security-help
 
 Press & Reviewer Kit: https://tsidevstudio.com/press/xsilent
 
+## Nullun — Status Bar Studio for Android
+
+Nullun is an Android tool for creating customizable status-bar visuals and battery-screen mockups directly on-device.
+
+Key features:
+
+- Battery level from 1% to 100%
+- Android- and iPhone-inspired styles
+- Custom carrier text
+- LTE, 4G and 5G indicators
+- Custom signal and Wi-Fi indicators
+- Custom messages
+- Notification text controls
+- App name controls
+- Background customization
+- Local on-device creation
+- Free creation, editing, preview and History
+- Lifetime unlock for external output
+- No subscription
+
+Website: https://tsidevstudio.com/apps/nullun
+
+Repository: https://github.com/tsidevstudio/nullun
+
+Google Play: https://play.google.com/store/apps/details?id=com.premium.nullun
+
 ## Other Android apps
 
 TSI Dev Studio also develops:
-- Nullun — Status Bar Studio
-- Seabil — Subscription Tracker
-- HEZX — Price-per-Use Tracker
-- Annum — Birthday Reminder
-- Zizly — Sleep Recorder
-- Zekro — Debt & Ledger Tracker
+
+- **MicutVault** — Lightweight private media vault
+- **AnonyPic** — On-device photo privacy tools
+- **Seabil** — Subscription tracker
+- **HEZX** — Price-per-use tracker
+- **Annum** — Reminder and date tracking
+- **Zizly** — Sleep talk recorder
+- **Zekro** — Debt and ledger tracker
+- **Mission563** — Focused Android utility
+- **Group Decision** — Group decision-making tool
+
+Explore all apps:
+
+https://tsidevstudio.com
 
 ## Development principles
 
@@ -49,41 +86,21 @@ TSI Dev Studio also develops:
 - No unnecessary accounts
 - Minimal data collection
 - Clear privacy expectations
+- No unnecessary cloud dependence
 - One-time purchases where possible
 - Focused Android utilities
+- Simple ownership
+- Privacy-conscious design
 
-## Links
+## Official links
 
 Website: https://tsidevstudio.com
+
+Google Play: https://play.google.com/store/apps/developer?id=TSI+Dev+Studio
 
 Instagram: https://www.instagram.com/tsidevstudio
 
 Facebook: https://www.facebook.com/tsidevstudio
-
-### Nullun — Battery Screen & Status Bar Studio
-
-Create customizable battery screens and status-bar visuals on Android.
-
-- Battery level from 1% to 100%
-- Android- and iPhone-inspired styles
-- Status Bar Studio Pro
-- Custom carrier, LTE/4G/5G, signal and Wi-Fi
-- Custom messages and notification text
-- Local on-device creation
-- Free + Pro one-time purchase
-- No subscription
-
-Repository: https://github.com/tsidevstudio/nullun  
-Website: https://tsidevstudio.com/apps/nullun  
-Google Play: https://play.google.com/store/apps/details?id=com.premium.nullun
-
-
-
-
-
-
-
-
 
 YouTube: https://www.youtube.com/@tsidevstudio
 
@@ -91,6 +108,8 @@ X: https://x.com/TSIDEVStudio
 
 ## Contact
 
-general: contact@tsidevstudio.com
-suport aplicații: support@tsidevstudio.com
-presă/outreach: press@tsidevstudio.com
+General: contact@tsidevstudio.com
+
+App support: support@tsidevstudio.com
+
+Press & media: press@tsidevstudio.com
