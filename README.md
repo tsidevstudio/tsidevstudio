@@ -91,4 +91,6 @@ X: https://x.com/TSIDEVStudio
 
 ## Contact
 
-tsi.studio.dev@gmail.com
+general: contact@tsidevstudio.com
+suport aplicații: support@tsidevstudio.com
+presă/outreach: press@tsidevstudio.com
